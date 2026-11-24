@@ -1,0 +1,4 @@
+interface:
+  display_name: "Olex2 单晶精修"
+  short_description: "复现小分子单晶模型，核对无序与溶剂，交付可复算的 Olex2 工程"
+  default_prompt: "使用 $olex2-refinement 检查并精修我的小分子单晶工程，核对化学归属、反射集和收敛情况，交付 CIF 与可复算工程。"
